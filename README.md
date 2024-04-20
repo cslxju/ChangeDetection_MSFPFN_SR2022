@@ -1,10 +1,8 @@
-# CD
-ChangeDetection
-Manuscript title: Multi-Scale Feature Progressive Fusion Network for Remote Sensing Image Change Detection
-All authors:Di Lu, Shuli Cheng*, Liejun Wang, & Shiji Song
+## CD ChangeDetection
+## Manuscript title: Multi-Scale Feature Progressive Fusion Network for Remote Sensing Image Change Detection
+## All authors: Di Lu, Shuli Cheng*, Liejun Wang, & Shiji Song
 
-
-If our code is helpful to you, please cite our paper.
+## If our code is helpful to you, please cite our paper.
 
 [1] Di Lu, Shuli Cheng*, Liejun Wang, and Shiji Song. Multi-Scale Feature Progressive Fusion Network for Remote Sensing Image Change Detection. Scientific Reports, 2022, 12:11968.
 
